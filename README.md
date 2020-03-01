@@ -26,7 +26,7 @@
 Тот, кто курит Philip Morris, пьет пиво.
 В зеленом доме пьют кофе.
 
-![alt text](https://downloader.disk.yandex.ru/preview/6fa12f8b76383e8408a035cfe6672aac977c89654290d61182b813ef72ebbdae/5e5c07cc/_cQ_sa0IrjnhNJw79_hPrqLJCemTSfrlUH6ERuo01Dd9ztrYq5FgvhmnrzGaVCjxXKTkwhg6Hhdgg7zf3Zug1g==?uid=0&filename=2020-03-01_17-34-24.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=933485117&size=1920x898)
-![alt text](https://downloader.disk.yandex.ru/preview/dcae511fc0e062ba53c61a4d43da1992236bc646b790116b08c0e964bf70d1f6/5e5c07f3/LIUCHgubjBDDZxYBx8vbUKNweNeaBj9nnmjWcEPUj2ei7lCl44lKJetKmOIN8jbzGT7IDiH40WhAxKZC-RR6ug==?uid=0&filename=2020-03-01_17-34-50.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=933485117&size=1920x898)
+![alt text](https://downloader.disk.yandex.ru/preview/1be63ce4175f380b47dc98ad71a6f96c36963d69d12ac65979b498bc84d924a9/5e5c2dec/sxR5QLoBi8Or88SxMu0dpzM_JlRJJF3PATynp1bmFjse2Ebb9llH1h0p7dMhWqYusbtuzUsL-UyOHAxjChNMdA==?uid=0&filename=2020-03-01_20-24-48.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=933485117&size=2048x2048)
+![alt text](https://downloader.disk.yandex.ru/preview/ec405b2a7562ba70713424bb2bc95fa5ea28d23cb273cbb80fb1a74772fc64ba/5e5c2e09/b0nHrU1uF4yBjMOSELFi-pmID_aWyMrRRXmstSY2voMmXNHS06Qi-YafNDsEnJROtfufox4bNCVqoq7tIM6A6w==?uid=0&filename=2020-03-01_20-25-03.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=933485117&size=2048x2048)
 ---------
-В итоге проведенной лабораторной работы было создано 4 программы, которые работают по заданному условию
+В итоге проведенной лабораторной работы была реализована программа для решения задачи Эйнштейна. Программа работает (как бы), но если поменять правла местами, то, скорее всего, она работать не будет) В частности если поставить правла в порядке который указан в условии то она вряд ли правильно покажет ответ) 
